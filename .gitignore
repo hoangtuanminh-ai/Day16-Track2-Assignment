@@ -19,4 +19,7 @@ lab-key.pub
 
 # Environment Variables
 .env
-.env.local
+.env.localterraform.zip
+*.zip
+terraform.zip
+*.zip
